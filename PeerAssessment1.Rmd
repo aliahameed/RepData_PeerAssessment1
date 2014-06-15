@@ -1,5 +1,5 @@
-Reproducible Research Peer Assessment 1 - Alia Hameed
-=====================================================
+Reproducible Research - Peer Assessment 1
+=========================================
 
 ### Loading and Preprocessing ###
 Assuming that the Activity Monitoring Data has been downloaded and unzipped to the current working directory, the file is read into the **activity** object, with the format specified for each column.
